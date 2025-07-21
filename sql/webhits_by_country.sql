@@ -1,4 +1,4 @@
-CREATE TABLE ctlg_electroniz.sch_gold.webhits_by_country AS
+CREATE TABLE ctlg_electroniz.sch_domain_marketing_gold.webhits_by_country AS
 (
   SELECT
     country_name,

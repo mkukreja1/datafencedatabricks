@@ -1,4 +1,4 @@
-CREATE TABLE ctlg_electroniz.sch_gold.aggregated_store_sales_by_quarter AS
+CREATE TABLE ctlg_electroniz.sch_domain_finance_gold.aggregated_store_sales_by_quarter AS
 (
   SELECT
     YEAR(order_date) AS year,

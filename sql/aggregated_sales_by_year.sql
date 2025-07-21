@@ -1,4 +1,4 @@
-CREATE TABLE ctlg_electroniz.sch_gold.aggregated_sales_by_year AS
+CREATE TABLE ctlg_electroniz.sch_domain_finance_gold.aggregated_sales_by_year AS
 SELECT
   year,
   SUM(aggregated_sales_price) AS aggregated_sales_price

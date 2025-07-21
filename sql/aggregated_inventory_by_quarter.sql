@@ -1,4 +1,4 @@
-CREATE TABLE ctlg_electroniz.sch_gold.aggregated_inventory_by_quarter AS
+CREATE TABLE ctlg_electroniz.sch_domain_supply_gold.aggregated_inventory_by_quarter AS
 SELECT
   product_category,
   product_name,
