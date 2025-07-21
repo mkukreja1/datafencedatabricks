@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS ctlg_electroniz.sch_gold;
